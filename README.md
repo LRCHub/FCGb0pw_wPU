@@ -1,0 +1,52 @@
+# Justin Bieber – What Do You Mean?
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+What do you mean?
+When you nod your head yes
+But you wanna say no
+What do you mean?
+When you don't want me to move
+But you tell me to go
+What do you mean?
+Said we're running out of time
+Trying to catch the beat make up your mind
+What do you mean?
+Better make up your mind
+What do you mean?
+You're so indecisive of what I'm saying
+Don't want us to end where do I start
+First you wanna go left and you want to turn right
+First you up and you're down and then between
+
+Ohh I really want to know...
+
+When you nod your head yes
+But you wanna say no
+What do you mean?
+What do you mean?
+But you tell me to go
+Said we're running out of time
+What do you mean?
+Better make up your mind
+What do you mean?
+You're overprotective when I'm leaving
+Trying to compromise but I can't win
+You wanna make a point but you keep preaching
+You had me from the start won't let this end
+First you wanna go left and you want to turn right
+Wanna argue all day make love all night
+First you up and you're down and then between
+Ohh I really want to know...
+What do you mean?
+When you nod your head yes
+What do you mean?
+When you don't want me to move
+But you tell me to go
+What do you mean?
+Said we're running out of time
+What do you mean?
+Better make up your mind
+What do you mean?
+```
