@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "What Do You Mean?",
+  "base_artist": "Justin Bieber",
+  "createdAt": "2025-12-14T05:37:31.863713Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What Do You Mean?",
+      "artist": "Beth",
+      "has_synced": false,
+      "path": "select/01_What_Do_You_Mean_Beth.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/02_What_Do_You_Mean_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What Do You Mean?",
+      "artist": "Karmin",
+      "has_synced": true,
+      "path": "select/03_What_Do_You_Mean_Karmin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/04_What_Do_You_Mean_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/05_What_Do_You_Mean_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What Do You Mean",
+      "artist": "Vic Chesnutt",
+      "has_synced": false,
+      "path": "select/06_What_Do_You_Mean_Vic_Chesnutt.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What Do You Mean?",
+      "artist": "Krizz Kaliko",
+      "has_synced": false,
+      "path": "select/07_What_Do_You_Mean_Krizz_Kaliko.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/08_What_Do_You_Mean_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/09_What_Do_You_Mean_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/10_What_Do_You_Mean_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What Do You Mean",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/11_What_Do_You_Mean_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/12_What_Do_You_Mean_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What Do You Mean",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/13_What_Do_You_Mean_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "What Do You Mean?",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/14_What_Do_You_Mean_Verschiedene.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What Do You Mean",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/15_What_Do_You_Mean_Verschiedene.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/pl_01_What_Do_You_Mean_Justin_Bieber.txt"
+    }
+  ]
+}
